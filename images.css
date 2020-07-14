@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+}
+
+.content{
+    margin: 15px 40px;
+}
+.content2{
+    margin-top: 40px;
+}
+.google_logo{
+    width: 272px; padding-top: 90px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+.nav ul li{
+    display: inline;
+    padding-right: 10px;
+}
+.nav ul{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.project0_buttons{
+    height: 30px;
+    border: 0;
+    border: 1px solid #f2f2f2; background-color: #f2f2f2; color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 3px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 5px;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1)
+}
+.search_div{
+    flex: 1;
+    /*display: flex;*/
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+    width: 582px;
+    border: 1px solid;
+    height:39px;
+    
+    
+    border-radius: 25px;
+    border-color: #d6d1d1;
+}
+.search_logo{
+    float: left;
+    padding-top: 8px;
+}
+.q{
+    width: 70%;
+    height: 30px;
+    margin-top: 6px;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: -5px;
+    
+}
+
+.wFncld{
+    color: #9aa0a6;
+}
+.z1asCe svg {
+    height: 20px;
+    width: 20px;
+    margin-top: 5px;
+}
+.z1asCe {
+    fill: currentColor;
+    line-height: 24px;
+}
+.search_div:hover{
+    border: 1px solid #fffefe ;
+    box-shadow: 1px 1px 12px #b9b6b6ec; 
+}
+.project0_buttons:hover{
+    border: 1px solid #b9b6b6ec;
+    box-shadow: 0px 2px 4px #ebe7e7;
+}
+.language{
+    display: inline-block;
+    line-height: 30px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400px;
+}
+
+.logo-subtext {
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    left: -60px;
+    top: -1px;
+    position: relative;
+    
+}
+
+.HPVvwb {
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.HPVvwb:hover {
+    cursor: pointer;
+}
+
+.camera {
+    height: 24px;
+    width: 24px;
+    background-size: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.camera:hover {
+    cursor: pointer;
+}
+.HPVvwb:hover {
+    cursor: pointer;
+}
+.search_button:hover {
+    cursor: pointer;
+}
+.search_button {
+    height: 25px;
+    width: 25px;
+    vertical-align: middle;
+    color: yellow;
+}
